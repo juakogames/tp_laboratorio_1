@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567743713 source:c:\users\joaquin\desktop\tp1\tp-1.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"TP--1.h"
+
+1567743328 c:\users\joaquin\desktop\tp1\tp--1.h
+
+1567740927 source:c:\users\joaquin\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TP--1.h"
+
